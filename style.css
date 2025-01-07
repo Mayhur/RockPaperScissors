@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap'); 
+
+img{height:40px}
+.InputSection{width:50%}
+body{background:black;
+font-family:'Raleway'
+}
+.card{background:black;
+color:white;
+border:1px solid white;
+width:40%
+}
+input{background:inherit;
+    border:none;
+border-bottom:1px solid white;
+color:white
+}
+input::placeholder{color:white}
